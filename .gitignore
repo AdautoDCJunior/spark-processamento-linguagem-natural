@@ -1,0 +1,11 @@
+# VSCODE
+.vscode
+
+# PYTHON
+__pycache__
+
+# ENVIRONMENT
+venv
+
+# DATA BASE
+data
