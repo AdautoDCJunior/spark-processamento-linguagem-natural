@@ -1,4 +1,4 @@
-![Badge](https://img.shields.io/badge/Status_curso-Em_andamento-red)
+![Badge](https://img.shields.io/badge/Status_curso-Finalizado-green)
 
 # Problema ❗
 
